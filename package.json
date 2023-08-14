@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "parcel": "^2.9.3"
+  },
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.9.3",
+    "@parcel/transformer-webmanifest": "^2.9.3",
+    "gh-pages": "^6.0.0",
+    "push-dir": "^0.4.1",
+    "shx": "^0.3.2"
+  },
+  "name": "index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "start": "parcel ./index.html",
+    "prebuild-dev": "shx rm -rf dist/*",
+    "build-dev": "parcel build ./index.html --no-optimize --public-url ./",
+    "prebuild": "shx rm -rf dist/*",
+    "build": "parcel build ./index.html --public-url ./",
+    "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OldXrist/PS5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OldXrist/PS5/issues"
+  },
+  "homepage": "https://github.com/OldXrist/PS5#readme",
+  "description": ""
+}
