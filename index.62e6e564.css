@@ -1,24 +1,10 @@
-@font-face {
-  font-family: Gilroy;
-  src: url("Gilroy-Regular.7ca72934.eot");
-  src: local(Gilroy Regular), local(Gilroy-Regular), url("Gilroy-Regular.7ca72934.eot#iefix") format("embedded-opentype"), url("Gilroy-Regular.728af65e.woff2") format("woff2"), url("Gilroy-Regular.1797c507.woff") format("woff"), url("Gilroy-Regular.8d7a925d.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: Grtsk Tera;
-  src: url("GrtskTera-Regular.62c0708a.eot");
-  src: local(GrtskTera Regular), local(GrtskTera-Regular), url("GrtskTera-Regular.62c0708a.eot#iefix") format("embedded-opentype"), url("GrtskTera-Regular.cea090fb.woff2") format("woff2"), url("GrtskTera-Regular.531dea29.woff") format("woff"), url("GrtskTera-Regular.75ec7dee.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 html {
   scroll-behavior: smooth;
   background: linear-gradient(271.13deg, #aab2c4 .1%, #020024 173.28%);
   height: 100%;
-  font-family: Gilroy;
+  font-family: Montserrat;
 }
 
 body {
@@ -171,7 +157,7 @@ body {
   color: #262647;
   width: auto;
   margin: 0 0 20px;
-  font-family: Grtsk Tera;
+  font-family: Montserrat;
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -218,7 +204,7 @@ h1 {
   text-align: center;
   color: #fff;
   margin: 0 0 20px;
-  font-family: Grtsk Tera;
+  font-family: Montserrat;
   font-size: 55px;
   font-style: normal;
   font-weight: 700;
@@ -256,7 +242,7 @@ h1 {
 }
 
 .tileText h2 {
-  font-family: Grtsk Tera;
+  font-family: Montserrat;
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -309,7 +295,7 @@ h1 {
 
 .price {
   color: #fff;
-  font-family: Grtsk Tera;
+  font-family: Montserrat;
   font-size: 22px;
   font-weight: 700;
   line-height: 140%;
