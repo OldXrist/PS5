@@ -1,15 +1,15 @@
 @font-face {
   font-family: Gilroy;
-  src: url("Gilroy-Regular.7ca72934.eot");
-  src: local(Gilroy Regular), local(Gilroy-Regular), url("Gilroy-Regular.7ca72934.eot#iefix") format("embedded-opentype"), url("Gilroy-Regular.728af65e.woff2") format("woff2"), url("Gilroy-Regular.1797c507.woff") format("woff"), url("Gilroy-Regular.8d7a925d.ttf") format("truetype");
+  src: url("/Gilroy-Regular.7ca72934.eot");
+  src: local(Gilroy Regular), local(Gilroy-Regular), url("/Gilroy-Regular.7ca72934.eot#iefix") format("embedded-opentype"), url("Gilroy-Regular.728af65e.woff2") format("woff2"), url("Gilroy-Regular.1797c507.woff") format("woff"), url("Gilroy-Regular.8d7a925d.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: Grtsk Tera;
-  src: url("GrtskTera-Regular.62c0708a.eot");
-  src: local(GrtskTera Regular), local(GrtskTera-Regular), url("GrtskTera-Regular.62c0708a.eot#iefix") format("embedded-opentype"), url("GrtskTera-Regular.cea090fb.woff2") format("woff2"), url("GrtskTera-Regular.531dea29.woff") format("woff"), url("GrtskTera-Regular.75ec7dee.ttf") format("truetype");
+  src: url("/GrtskTera-Regular.62c0708a.eot");
+  src: local(GrtskTera Regular), local(GrtskTera-Regular), url("/GrtskTera-Regular.62c0708a.eot#iefix") format("embedded-opentype"), url("GrtskTera-Regular.cea090fb.woff2") format("woff2"), url("GrtskTera-Regular.531dea29.woff") format("woff"), url("GrtskTera-Regular.75ec7dee.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -271,7 +271,7 @@ h1 {
 }
 
 .fourCards {
-  background-image: url("secondBg.4e1d68c2.svg");
+  background-image: url("/secondBg.4e1d68c2.svg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
