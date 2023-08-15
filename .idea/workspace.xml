@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12df14de-42de-47c5-a01b-3959eb62a6eb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lm3Mt8nhlGf0gJtMNWycX5SPAL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/igors/Desktop/PS5&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\igors\Desktop\PS5\fonts\GrtskTera" />
+      <recent name="C:\Users\igors\Desktop\PS5\fonts\Gilroy" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12df14de-42de-47c5-a01b-3959eb62a6eb" name="Changes" comment="" />
+      <created>1676462388698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676462388698</updated>
+      <workItem from="1676462390408" duration="16554000" />
+      <workItem from="1676640466676" duration="15545000" />
+      <workItem from="1676809057546" duration="3795000" />
+      <workItem from="1677424911015" duration="7694000" />
+      <workItem from="1677661175802" duration="2860000" />
+      <workItem from="1677757223500" duration="437000" />
+      <workItem from="1678199941344" duration="13637000" />
+      <workItem from="1678639566884" duration="22361000" />
+      <workItem from="1679590495528" duration="11000" />
+      <workItem from="1680354723270" duration="86000" />
+      <workItem from="1680354834518" duration="5000" />
+      <workItem from="1680355249231" duration="8000" />
+      <workItem from="1680355299793" duration="5000" />
+      <workItem from="1680355307860" duration="5000" />
+      <workItem from="1680355345240" duration="61000" />
+      <workItem from="1681646473793" duration="1268000" />
+      <workItem from="1681908294848" duration="5000" />
+      <workItem from="1682514617762" duration="4417000" />
+      <workItem from="1682584180191" duration="6240000" />
+      <workItem from="1684412883229" duration="18124000" />
+      <workItem from="1685693678245" duration="9657000" />
+      <workItem from="1692021407851" duration="319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
