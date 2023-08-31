@@ -539,10 +539,6 @@ a{
     gap: 15px;
   }
 
-  .cards .card {
-    min-width: 405px;
-  }
-
   .tiles {
     gap: 20px;
     padding-top: 90px;
