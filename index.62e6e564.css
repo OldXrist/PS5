@@ -1,7 +1,7 @@
 @font-face {
   font-family: Gilroy;
-  src: url("Gilroy-Regular.7ca72934.eot");
-  src: local(Gilroy Regular), local(Gilroy-Regular), url("Gilroy-Regular.7ca72934.eot#iefix") format("embedded-opentype"), url("Gilroy-Regular.728af65e.woff2") format("woff2"), url("Gilroy-Regular.1797c507.woff") format("woff"), url("Gilroy-Regular.8d7a925d.ttf") format("truetype");
+  src: url("../Gilroy-Regular.7ca72934.eot");
+  src: local(Gilroy Regular), local(Gilroy-Regular), url("../Gilroy-Regular.7ca72934.eot#iefix") format("embedded-opentype"), url("../Gilroy-Regular.728af65e.woff2") format("woff2"), url("../Gilroy-Regular.1797c507.woff") format("woff"), url("../Gilroy-Regular.8d7a925d.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
