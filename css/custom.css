@@ -1,23 +1,23 @@
 @font-face {
   font-family: 'Gilroy';
-  src: url('fonts/Gilroy/Gilroy-Regular.eot');
+  src: url('../fonts/Gilroy/Gilroy-Regular.eot');
   src: local('Gilroy Regular'), local('Gilroy-Regular'),
-  url('fonts/Gilroy/Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
-  url('fonts/Gilroy/Gilroy-Regular.woff2') format('woff2'),
-  url('fonts/Gilroy/Gilroy-Regular.woff') format('woff'),
-  url('fonts/Gilroy/Gilroy-Regular.ttf') format('truetype');
+  url('../fonts/Gilroy/Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/Gilroy/Gilroy-Regular.woff2') format('woff2'),
+  url('../fonts/Gilroy/Gilroy-Regular.woff') format('woff'),
+  url('../fonts/Gilroy/Gilroy-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Grtsk Tera';
-  src: url('fonts/GrtskTera/GrtskTera-Regular.eot');
+  src: url('../fonts/GrtskTera/GrtskTera-Regular.eot');
   src: local('GrtskTera Regular'), local('GrtskTera-Regular'),
-  url('fonts/GrtskTera/GrtskTera-Regular.eot?#iefix') format('embedded-opentype'),
-  url('fonts/GrtskTera/GrtskTera-Regular.woff2') format('woff2'),
-  url('fonts/GrtskTera/GrtskTera-Regular.woff') format('woff'),
-  url('fonts/GrtskTera/GrtskTera-Regular.ttf') format('truetype');
+  url('../fonts/GrtskTera/GrtskTera-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/GrtskTera/GrtskTera-Regular.woff2') format('woff2'),
+  url('../fonts/GrtskTera/GrtskTera-Regular.woff') format('woff'),
+  url('../fonts/GrtskTera/GrtskTera-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
