@@ -362,6 +362,17 @@ footer ul{
   margin: 0;
 }
 
+footer p{
+  color: #FFF;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+  opacity: 0.7;
+  margin-top: 50px;
+}
+
 a{
   text-decoration: none;
   color: #ffffff;
