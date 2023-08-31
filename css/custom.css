@@ -282,7 +282,7 @@ h1{
 .fourCards{
   min-height: 100%;
   width: 100%;
-  background-image: url("/img/secondBg.svg");
+  background-image: url("../img/secondBg.svg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -560,7 +560,7 @@ a{
   .block {
     justify-content: center;
     padding: 60px 20px 60px 20px;
-    background-image: url("/img/card-bg-mobile.svg");
+    background-image: url("../img/card-bg-mobile.svg");
     background-size: cover;
     width: calc(100% - 40px);
   }
