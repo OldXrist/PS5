@@ -38,7 +38,7 @@ body{
   flex-direction: column;
   position: relative;
   width: 100%;
-  height: calc(100% - 40px);
+  height: calc(100vh - 30px);
   overflow: hidden;
   background: linear-gradient(112.91deg, #757F9A 17.74%, #D7DDE8 83.15%);
   padding-bottom: 50px;
