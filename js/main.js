@@ -13,11 +13,13 @@ $(document).ready(function (){
     $('.mobileLogo').fadeOut()
     $('.burger').fadeOut()
     $('.mobileLinks').slideDown()
+    $('body').css('overflow', 'hidden')
   })
 
   $('.exit').click(function (){
     $('.mobileLogo').fadeIn()
     $('.burger').fadeIn()
     $('.mobileLinks').slideUp()
+    $('body').css('overflow', 'auto')
   })
 })
